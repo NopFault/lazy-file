@@ -41,7 +41,7 @@ To receive file:
     
     <img width="541" alt="Screenshot 2022-12-08 at 21 08 24" src="https://user-images.githubusercontent.com/90475186/206546542-c092b907-a836-4943-bc61-0d9d8c4ef03d.png">
 
-    - Sending chunked encrypted file:
+    - Sending first chunk of encrypted file:
     
     <img width="539" alt="Screenshot 2022-12-08 at 21 08 39" src="https://user-images.githubusercontent.com/90475186/206546695-1b881283-5d7d-4f72-b036-88b1e4aa98a9.png">
 

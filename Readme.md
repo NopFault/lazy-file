@@ -6,8 +6,8 @@ Lazy file - file server to send/receive file over `TCP`. File is "encoded" with 
 
 To run it as a server:
 
-    `$ lazyfile -h 0.0.0.0 -p 9999 -f mainfile`
+    `lazyfile -h 0.0.0.0 -p 9999 -f filetosend`
 
 To receive file:
 
-    `$ lazyfile -h 0.0.0.0 -p 9999`
+    `lazyfile -h 0.0.0.0 -p 9999`
